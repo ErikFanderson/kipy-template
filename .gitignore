@@ -1,0 +1,4 @@
+build/
+*.log
+*.erc
+*.kicad_pcb-bak
